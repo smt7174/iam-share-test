@@ -1,0 +1,5 @@
+node_modules
+pkg
+.serverless
+package-lock.json
+restClient.txt
