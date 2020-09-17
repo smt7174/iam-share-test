@@ -3,3 +3,4 @@ pkg
 .serverless
 package-lock.json
 restClient.txt
+authorizer.js
