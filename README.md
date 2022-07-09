@@ -1,2 +1,2 @@
 # iam-share-test
-Serverless Frameworkで、Lambda実行権限
+Serverless Frameworkで、API GatewayとLambdaの定義を別にするサンプル
